@@ -22,4 +22,4 @@ This repo demonstrates the usage of the Sphinx with reStructuredText support, as
 - [Get started with Read The Docs](https://docs.readthedocs.io/en/latest/getting_started.html)
 - [Why you shouldn't use "Markdown" for documentation](http://ericholscher.com/blog/2016/mar/15/dont-use-markdown-for-technical-docs)
 - [Sphinx - Python Documentation Generator](http://www.sphinx-doc.org/en/stable)
-
+- [reStructuredText Quick Start](http://docutils.sourceforge.net/docs/user/rst/quickstart.html)

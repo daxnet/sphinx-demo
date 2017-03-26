@@ -17,6 +17,9 @@ This repo demonstrates the usage of the Sphinx with reStructuredText support, as
 	- To build the documentation assets, under the `docs` folder:
 		- `$ make html`
 		- Documentation will be placed under `docs/build/html` folder
+		
+## Generated Document
+The generated document can be opened from http://sphinx-demonstration.readthedocs.io/en/latest/.
 
 ## References
 - [Get started with Read The Docs](https://docs.readthedocs.io/en/latest/getting_started.html)

@@ -25,4 +25,5 @@ The generated document can be opened from http://sphinx-demonstration.readthedoc
 - [Get started with Read The Docs](https://docs.readthedocs.io/en/latest/getting_started.html)
 - [Why you shouldn't use "Markdown" for documentation](http://ericholscher.com/blog/2016/mar/15/dont-use-markdown-for-technical-docs)
 - [Sphinx - Python Documentation Generator](http://www.sphinx-doc.org/en/stable)
+- [Sphinx Documentation](http://www.sphinx-doc.org/en/stable/contents.html)
 - [reStructuredText Quick Start](http://docutils.sourceforge.net/docs/user/rst/quickstart.html)
